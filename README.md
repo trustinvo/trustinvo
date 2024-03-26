@@ -1,6 +1,6 @@
 # Trustin's Data Analytics
 
-My name is Trustin. Welcome to my data analytics portfolio! Here, I document and showcase my passion for data analytics combining analytical methods with interests such as commerce and sports.
+My name is Trustin. Welcome to my data analytics portfolio! Here, I document and showcase my passion for data analytics combining analytical methods with interests such as e-commerce and sports.
 
 Table of Contents to my projects:
 

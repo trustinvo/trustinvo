@@ -1,8 +1,6 @@
 # Trustin's Data Analytics
 
-Hello! My name is Trustin. Welcome to my data analytics portfolio! Here, I document and showcase one of my passions, data analytics, combining quantitative and qualitative methods with interests such as e-commerce and sports.
-
-Table of Contents to my projects:
+Hello! My name is Trustin. Welcome to my data analytics portfolio! Here, I document and showcase one of my passions, data analytics, combining quantitative and qualitative methods with interests such as e-commerce and sports. Feel free to check out my analytics portfolio below!
 
 ## Table of Contents (newest to oldest)
 - *NEW!*: [Marketing Analytics: Customer Preferences Case Study](https://github.com/trustinvo/casestudy/blob/main/Marketing%20Analytics%20Case%20Study)
